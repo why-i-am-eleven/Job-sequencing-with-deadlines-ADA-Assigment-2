@@ -1,3 +1,8 @@
+Kushagra Rathore
+Btech Cyber Security 4th Sem
+2401410033
+
+
 Job Sequencing with Deadlines (C++)
 📖 Overview
 This project implements the Job Sequencing with Deadlines problem using a greedy algorithm in C++.
